@@ -8,4 +8,4 @@
 
 アプリの出力は、以下のようになります。
 
-![検出結果](https://github.com/doiken23/sperm_detector/data/detected_sperm.jpg)
+![検出結果](https://github.com/doiken23/sperm_detector/blob/master/data/detected_sperm.jpg)
